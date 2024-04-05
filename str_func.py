@@ -3,5 +3,6 @@ get_big(word):
     return word.upper()
 
 get_fletter(word):
-"""делает первую букву заглавной"""
+"""делает первую букву заглавной и красивой"""
     return word.title()
+
