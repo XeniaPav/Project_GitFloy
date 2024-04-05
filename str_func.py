@@ -1,3 +1,7 @@
 get_big(word):
-""" делает все буквы заглавными """"
+"""все буквы заглавные"""
     return word.upper()
+
+get_fletter(word):
+"""делает первую букву заглавной"""
+    return word.title()
